@@ -2,13 +2,7 @@
 
  The code mainly includes R Shiny app tutorials
 
-运行shiny的模型例子：
-使用
 
-```{}
-runExample()
-
-```
 
 **tutorial 4:**
 
@@ -31,6 +25,15 @@ widgets:renderPlot
 **tutorial 8:**
 
 widgets:ui-tabsets
+
+
+
+项目：
+
+
+[Poject]()
+
+
 
 学习资料:
 
